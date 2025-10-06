@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, It's Me Mohammad Kaleem 👋  
+### 💻 Software Automation Developer | Python Enthusiast | AI Learner
 
-<!--
-**kalemdot-devs/kalemdot-devs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Python Developer passionate about automation, scraping, and AI-driven tools.  
+I build bots, APIs, and intelligent scripts that make data collection and business operations smoother.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tech Stack
+- 🐍 Python (Selenium, Requests, BeautifulSoup, Pandas)
+- 🌐 Web Automation & Scraping
+- ⚙️ APIs & FastAPI
+- 🧠 AI/ML: OpenAI API, LangChain (learning)
+- 🗄️ Databases: MySQL, MongoDB
+- ☁️ Deployment: GitHub, Render, Railway
