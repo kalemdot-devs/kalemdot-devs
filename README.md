@@ -1,6 +1,6 @@
 <div align="center">
 
-#### Welcome To My Code Playground <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+### Welcome To My Code Playground <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Experienced+Software+Developer;Automation+%26+Web+Scraping+Lover;FastAPI+Developers;Build+automation+ready+tools;Problem+Solver;AI+%26+ML+Learner;Self-Thought+Programmer;3%2B+years+of+Experience)](https://git.io/typing-svg)
 
@@ -14,29 +14,36 @@
 
 </div>
 
----
 
 ## About me
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" />
 
-<p align="left">
-  <sub>✌️ Passionate about <b>building automation tools</b> and sharing tech knowledge.</sub><br>
-  <sub>❤️ Driven by <b>clean code</b>, <b>AI integration</b>, and continuous learning.</sub><br>
-  <sub>📧 Reach out anytime at <a href="mailto:azaadg295@gmail.com">azaadg295@gmail.com</a></sub><br>
-  <sub>🔗 Let’s collaborate, learn, or build something exciting — <a href="https://github.com/kalemdot-devs" target="_blank">start here!</a></sub><br>
-  <sub>🚀 Helping businesses automate with <b>FastAPI</b> & <b>intelligent scraping</b>.</sub>
+<br>
+
+<p align="left" style="font-size:14px;">
+  ✌️ Passionate about <b>building automation tools</b> and sharing tech knowledge.<br>
+  ❤️ Driven by <b>clean code</b>, <b>AI integration</b>, and continuous learning.<br>
+  📧 Reach out anytime at <a href="mailto:azaadg295@gmail.com">azaadg295@gmail.com</a><br>
+  🔗 Let’s collaborate, learn, or build something exciting — <a href="https://github.com/kalemdot-devs" target="_blank">start here!</a><br>
+  🚀 Helping businesses automate with <b>FastAPI</b> & <b>intelligent scraping</b>.
+
+  <br>
 </p>
 
----
 
 ## 🧠 Tools & Tech Stack
+---
+
+<br>
 
 <div align="center">
 
 <img align="center" alt="Coding" width="500" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" />
 
 </div>
+
+<br>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
